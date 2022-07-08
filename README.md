@@ -8,10 +8,10 @@ UWC ISAK Japan’s core club, Makers club, is a club that develops members' tink
 
 
 ## Proposed Solution
-Considering all the problems presented, I will be creating a website specifically for the Makers club, naming it “XXXXX.” The website contains pages according to the needs. The current essential pages are: home page, tracking page, facilities page, and meeting log page. Through a visible shared platform, both identified issues will be solved. Firstly in terms of introducing facilities, the facilities page will have instructions for the technology we have on campus. Nextly, as for the project management, the tracking page will ease the process of teachers checking in on each members’ projects progress. For motivation, the home page will include an achievements section for showcasing some campus contributions the members have made. Lastly, the meeting log page follows weekly meetings in case for reasonably absent members. In addition, the overall sharing aspect will encourage students to work as there will be a positive peer pressure.
-### Statement
+Considering all the problems presented, I will be creating a website specifically for the Makers club, naming it “**XXXXXX**.” The website contains pages according to the needs. The current essential pages are: **home page, tracking page, facilities page,** and **meeting log page**. Through a visible shared platform, both identified issues will be solved. Firstly in terms of introducing facilities, the facilities page will have instructions for the technology we have on campus. Nextly, as for the project management, the tracking page will ease the process of teachers checking in on each members’ projects progress. For motivation, the home page will include an achievements section for showcasing some campus contributions the members have made. Lastly, the meeting log page follows weekly meetings in case for reasonably absence. In addition, the overall sharing aspect will encourage students to work as there will be a positive peer pressure.
+XXXXXX’s will be constructed using a few different languages. For the base, **HTML** will be used to associate the overall design through **CSS**. Functionality-wise, **Python** will be used. In terms of database, **Flask-SQLAlchemy** will operate the data storage. These languages will be justified below in the _Justification section_:
 
-### Description of the Game
+### Statement
 
 ### Justification 
 
